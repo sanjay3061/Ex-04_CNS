@@ -27,6 +27,12 @@ is 3.
  
 To check the interface list,  use following command: 
  snort   -W 
+
+
+
+
+
+
  
  ![image](https://github.com/IsaacAIML2023/Ex-04_CNS/assets/158465339/83d7de69-ebad-45e4-a444-3b5fdce21db9)
 
